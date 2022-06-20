@@ -1,0 +1,113 @@
+﻿@model  List<EntitiyLayer.Entities.Product>
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/Layout.cshtml";
+}
+
+<section id="slider">
+    <!--slider-->
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-12">
+                <div id="slider-carousel" class="carousel slide" data-ride="carousel">
+                    <ol class="carousel-indicators">
+                        <li data-target="#slider-carousel" data-slide-to="0" class="active"></li>
+                        <li data-target="#slider-carousel" data-slide-to="1"></li>
+                        <li data-target="#slider-carousel" data-slide-to="2"></li>
+                    </ol>
+
+                    <div class="carousel-inner">
+                        <div class="item active">
+                            <div class="col-sm-6">
+                                <h1><span>E</span>-SHOPPER</h1>
+                                <h2>Aradığınız her şey burada.</h2>
+                                <p>Medipol Üniversitesi Öğrencilerine özel bilgisayarlarda %20 indirim sizleri bekliyor. Tek yapmanız gereken alışveriş için mağazamıza gelirken öğrenci kimliğinizi yanınızda bulundurmanız. </p>
+                                <a href="/Category/Details/1" <button type="button" class="btn btn-default get">Alışverişe Başla</button></a>
+                            </div>
+                            <div class="col-sm-6">
+                                <img src="~/eshop/images/home/girl1.jpg" class="girl img-responsive" alt="" />
+
+                            </div>
+                        </div>
+                        <div class="item">
+                            <div class="col-sm-6">
+                                <h1><span>E</span>-SHOPPER</h1>
+                                <h2>Her Bütçeye Uygun Telefonlar</h2>
+                                <p>Kendinizi şımartma zamanı! Uygun fiyatlarla en beğenilen cep telefonlarına sahip olun. </p>
+                                <a href="/Category/Details/3" <button type="button" class="btn btn-default get">Alışverişe Başla</button></a>
+                            </div>
+                            <div class="col-sm-6">
+                                <img src="~/eshop/images/home/girl2.jpg" class="girl img-responsive" alt="" />
+
+                            </div>
+                        </div>
+
+                        <div class="item">
+                            <div class="col-sm-6">
+                                <h1><span>E</span>-SHOPPER</h1>
+                                <h2>Çocuklarınıza Karne Hediyesi</h2>
+                                <p>İlkokul ve ortaokul öğrencilerine karne hediyesi tablet! Takdir belgesiyle alışverişe gelen çocuklarımıza tablet alışverişlerinde %20 indirim. </p>
+                                <a href="/Category/Details/2" <button type="button" class="btn btn-default get">Alışverişe Başla</button></a>
+                            </div>
+                            <div class="col-sm-6">
+                                <img src="~/eshop/images/home/girl3.jpg" class="girl img-responsive" alt="" />
+
+                            </div>
+                        </div>
+
+                    </div>
+
+                    <a href="#slider-carousel" class="left control-carousel hidden-xs" data-slide="prev">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+                    <a href="#slider-carousel" class="right control-carousel hidden-xs" data-slide="next">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</section><!--/slider-->
+
+<section>
+    <div class="container">
+        <div class="row">
+            @Html.Action("CategoryList", "Category")
+
+            <div class="col-sm-9 padding-right">
+                <div class="features_items">
+                    <!--features_items-->
+                    <h2 class="title text-center">ÜRÜNLERİMİZ</h2>
+                    @foreach (var item in Model)
+                    {
+                        <div class="col-sm-4">
+                            <div class="product-image-wrapper">
+                                <div class="single-products">
+                                    <div class="productinfo text-center">
+
+                                        <a href="/Product/ProductDetails/@item.Id"><img src="~/Content/Image/@item.Image" width="100" height="150" alt="" /></a>
+                                        <h2>@item.Price ₺</h2>
+                                        <p>@item.Name</p>
+                                        <a href="/Product/ProductDetails/@item.Id" class="btn btn-default add-to-cart">Ürün Detay</a>
+                                    </div>
+
+                                </div>
+
+                            </div>
+                        </div>
+                    }
+
+                    
+
+
+
+                </div><!--features_items-->
+                @Html.Action("PopularProduct", "Product")
+
+            </div>
+        </div>
+    </div>
+</section>
+
+

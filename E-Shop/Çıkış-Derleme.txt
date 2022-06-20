@@ -1,0 +1,6 @@
+﻿Derleme başladı...
+1>------ Derleme başladı: Proje: BusinessLayer, Yapılandırma: Debug Any CPU ------
+1>  BusinessLayer -> C:\Users\ankar\source\repos\E-Shop\BusinessLayer\bin\Debug\BusinessLayer.dll
+2>------ Derleme başladı: Proje: E-Shop, Yapılandırma: Debug Any CPU ------
+2>  E-Shop -> C:\Users\ankar\source\repos\E-Shop\E-Shop\bin\E-Shop.dll
+========== Oluşturma: 2 başarılı, 0 başarısız, 2 güncel, 0 atlandı ==========

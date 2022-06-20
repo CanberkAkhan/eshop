@@ -1,0 +1,12 @@
+C:\Users\ankar\source\repos\E-Shop\EntitiyLayer\bin\Debug\EntitiyLayer.dll
+C:\Users\ankar\source\repos\E-Shop\EntitiyLayer\bin\Debug\EntitiyLayer.pdb
+C:\Users\ankar\source\repos\E-Shop\EntitiyLayer\obj\Debug\EntitiyLayer.csproj.AssemblyReference.cache
+C:\Users\ankar\source\repos\E-Shop\EntitiyLayer\obj\Debug\EntitiyLayer.csproj.CoreCompileInputs.cache
+C:\Users\ankar\source\repos\E-Shop\EntitiyLayer\obj\Debug\EntitiyLayer.dll
+C:\Users\ankar\source\repos\E-Shop\EntitiyLayer\obj\Debug\EntitiyLayer.pdb
+C:\Users\ankar\source\repos\E-Shop\EntitiyLayer\bin\Debug\EntitiyLayer.dll.config
+C:\Users\ankar\source\repos\E-Shop\EntitiyLayer\bin\Debug\EntityFramework.dll
+C:\Users\ankar\source\repos\E-Shop\EntitiyLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ankar\source\repos\E-Shop\EntitiyLayer\bin\Debug\EntityFramework.xml
+C:\Users\ankar\source\repos\E-Shop\EntitiyLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ankar\source\repos\E-Shop\EntitiyLayer\obj\Debug\EntitiyLayer.csproj.CopyComplete

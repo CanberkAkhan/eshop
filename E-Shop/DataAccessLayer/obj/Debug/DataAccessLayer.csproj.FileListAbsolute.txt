@@ -1,0 +1,17 @@
+C:\Users\ankar\source\repos\E-Shop\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\ankar\source\repos\E-Shop\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\ankar\source\repos\E-Shop\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\ankar\source\repos\E-Shop\DataAccessLayer\bin\Debug\EntitiyLayer.dll
+C:\Users\ankar\source\repos\E-Shop\DataAccessLayer\bin\Debug\EntityFramework.dll
+C:\Users\ankar\source\repos\E-Shop\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ankar\source\repos\E-Shop\DataAccessLayer\bin\Debug\EntitiyLayer.pdb
+C:\Users\ankar\source\repos\E-Shop\DataAccessLayer\bin\Debug\EntitiyLayer.dll.config
+C:\Users\ankar\source\repos\E-Shop\DataAccessLayer\bin\Debug\EntityFramework.xml
+C:\Users\ankar\source\repos\E-Shop\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ankar\source\repos\E-Shop\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\ankar\source\repos\E-Shop\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\ankar\source\repos\E-Shop\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+C:\Users\ankar\source\repos\E-Shop\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\ankar\source\repos\E-Shop\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\ankar\source\repos\E-Shop\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.userpass.resources
+C:\Users\ankar\source\repos\E-Shop\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.GenerateResource.cache

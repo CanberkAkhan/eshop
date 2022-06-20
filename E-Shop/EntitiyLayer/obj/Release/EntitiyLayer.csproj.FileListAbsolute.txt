@@ -1,0 +1,12 @@
+C:\Users\ankar\source\repos\E-Shop\EntitiyLayer\bin\Release\EntitiyLayer.dll.config
+C:\Users\ankar\source\repos\E-Shop\EntitiyLayer\bin\Release\EntitiyLayer.dll
+C:\Users\ankar\source\repos\E-Shop\EntitiyLayer\bin\Release\EntitiyLayer.pdb
+C:\Users\ankar\source\repos\E-Shop\EntitiyLayer\bin\Release\EntityFramework.dll
+C:\Users\ankar\source\repos\E-Shop\EntitiyLayer\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\ankar\source\repos\E-Shop\EntitiyLayer\bin\Release\EntityFramework.xml
+C:\Users\ankar\source\repos\E-Shop\EntitiyLayer\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\ankar\source\repos\E-Shop\EntitiyLayer\obj\Release\EntitiyLayer.csproj.AssemblyReference.cache
+C:\Users\ankar\source\repos\E-Shop\EntitiyLayer\obj\Release\EntitiyLayer.csproj.CoreCompileInputs.cache
+C:\Users\ankar\source\repos\E-Shop\EntitiyLayer\obj\Release\EntitiyLayer.csproj.CopyComplete
+C:\Users\ankar\source\repos\E-Shop\EntitiyLayer\obj\Release\EntitiyLayer.dll
+C:\Users\ankar\source\repos\E-Shop\EntitiyLayer\obj\Release\EntitiyLayer.pdb
